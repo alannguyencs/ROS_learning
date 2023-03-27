@@ -1,4 +1,6 @@
 *.xml
 *.iml
+.idea/*
 
 *lectures*
+*/quiz.md

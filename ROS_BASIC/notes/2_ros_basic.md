@@ -193,6 +193,3 @@ It provides the background to manage all these processes and communications betw
  ROS is an extremely powerful tool. If you dive into our courses you'll learn much more about 
  ROS and you'll find yourself able to do almost anything with your robots!
  
-## Questions:
-1. Gosh! You just created a package but ROS does not recognize it, what command can you use 
-to tell ROS to refresh its database? 

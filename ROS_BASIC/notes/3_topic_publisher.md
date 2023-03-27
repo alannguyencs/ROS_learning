@@ -93,12 +93,6 @@ The sample output shows that:
 + int32: datatype
 + data: variable name
 
-## QUIZ
-1. In the ROS Python API, which class is used to create a topic publisher? `rospy.Publisher`
-2.  What does this command do - `rostopic echo /talker`? prints out the information on /talker
-3. You have a publisher `pub`, which is connected to the topic `/cmd_vel`, 
-how do you send a message `move` to the `/cmd_vel` topic? `pub.publish(move)`
-4.  To get more information about a ROS message, you run? `rosmsg show`
-5. How do you get more information about a topic "/chatter"? `rostopic info /chatter`
+
 
 
